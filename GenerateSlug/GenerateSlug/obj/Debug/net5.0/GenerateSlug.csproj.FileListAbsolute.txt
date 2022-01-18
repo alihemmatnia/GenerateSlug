@@ -1,0 +1,16 @@
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\bin\Debug\net5.0\GenerateSlug.exe
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\bin\Debug\net5.0\GenerateSlug.deps.json
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\bin\Debug\net5.0\GenerateSlug.runtimeconfig.json
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\bin\Debug\net5.0\GenerateSlug.runtimeconfig.dev.json
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\bin\Debug\net5.0\GenerateSlug.dll
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\bin\Debug\net5.0\ref\GenerateSlug.dll
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\bin\Debug\net5.0\GenerateSlug.pdb
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.csproj.AssemblyReference.cache
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.AssemblyInfoInputs.cache
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.AssemblyInfo.cs
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.csproj.CoreCompileInputs.cache
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.dll
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\ref\GenerateSlug.dll
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.pdb
+C:\Users\ali20\source\repos\Ali2004h-linux\GenerateSlug\GenerateSlug\GenerateSlug\obj\Debug\net5.0\GenerateSlug.genruntimeconfig.cache
