@@ -14,11 +14,11 @@ namespace GenerateSlug
         {
             var s = phrase.RemoveDiacritics().ToLower();
             s = Regex.Replace(s, @"[^\u0600-\u06FF\uFB8A\u067E\u0686\u06AF\u200C\u200Fa-z0-9\s-]",
-                ""); // remove invalid characters
-            s = Regex.Replace(s, @"\s+", " ").Trim(); // single space
-            s = s.Substring(0, s.Length <= 100 ? s.Length : 45).Trim(); // cut and trim
-            s = Regex.Replace(s, @"\s", "-"); // insert hyphens        
-            s = Regex.Replace(s, @"‌", "-"); // half space
+                ""); 
+            s = Regex.Replace(s, @"\s+", " ").Trim();
+            s = s.Substring(0, s.Length <= 100 ? s.Length : 45).Trim();
+            s = Regex.Replace(s, @"\s", "-");   
+            s = Regex.Replace(s, @"‌", "-"); 
             return s.ToLower();
         }
 
